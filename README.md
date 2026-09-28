@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom!+I'm+michalskocz)](https://git.io/typing-svg)
-
 <table>
   <tr valign="top">
     <td width="35%" align="center">
